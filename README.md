@@ -20,7 +20,7 @@ Here are some of my study notes and published papers
 
 【《scrapy框架爬虫（一）》】https://shimo.im/docs/xh9RtdgJKpkWDT8J/ 
 
-还有《scrapy框架爬虫（二）（三）（四）（五）.......
+ 还有《scrapy框架爬虫（二）（三）（四）（五）.......
 
 【剪辑作品1-城市街拍】链接：https://pan.baidu.com/s/18_F_EUQ9hUdVwHIteQHOnA?pwd=vmic 提取码：vmic
 
