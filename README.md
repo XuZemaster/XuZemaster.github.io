@@ -22,6 +22,11 @@ Here are some of my study notes and published papers
 
 还有《scrapy框架爬虫（二）（三）（四）（五）.......
 
+【剪辑作品1-城市街拍】链接：https://pan.baidu.com/s/18_F_EUQ9hUdVwHIteQHOnA?pwd=vmic 提取码：vmic
+
+【剪辑作品2-台词混剪】链接：https://pan.baidu.com/s/1V4K3nnS-Yl2JRvCqDMHAPw?pwd=opdy 提取码：opdy
+
+
 
 # Paper Lists
 
