@@ -34,8 +34,10 @@ Here are some of my study notes and published papers
 
 【2】Efficient Privacy-Preserving Electronic Voting Scheme Based on Blockchain
 
-【3】A Method for Detecting False Text Based on Blockchain and Deep Learning
+【3】A Threshold Signature Key Protection Scheme Based on Blind Technology
 
-【4】Research on Copyright Protection Method of Convergenced Media Digital Image Based on Blockchain
+【4】Research and Implementation of Electronic Medical Record System Based on Blockchain
 
-【5】Research and Implementation of Electronic Medical Record System Based on Blockchain
+【5】基于区块链的全媒体数字图像版权保护方法研究 
+
+【6】基于区块链和深度学习的全媒体虚假信息检测方法研究
