@@ -30,14 +30,14 @@ Here are some of my study notes and published papers
 
 # Paper Lists
 
-【1】A Multi-source Data Privacy Protection Method Based on Homomorphic Encryption and Blockchain
+[1]Ze Xu, Sanxing Cao. A Multi-source Data Privacy Protection Method Based on Homomorphic Encryption and Blockchain[J]，Computer Modeling in Engineering & Sciences, Tech Science Press, USA. 2022.
 
-【2】Efficient Privacy-Preserving Electronic Voting Scheme Based on Blockchain
+[2]Ze Xu, Sanxing Cao. Efficient Privacy-Preserving Electronic Voting Scheme Based on Blockchain[C], The 4th IEEE International Conference on Smart Internet of Things(IEEESmartIoT 2020), Beijing, China, 2020.08: 190-196.
 
-【3】A Threshold Signature Key Protection Scheme Based on Blind Technology
+[3]Ze Xu, Sanxing Cao. A Method for Detecting False Text Based on Blockchain and Deep Learning. (under review)
 
-【4】Research and Implementation of Electronic Medical Record System Based on Blockchain
+[4]徐泽, 曹三省. 基于区块链的全媒体数字图像版权保护方法研究[J]. 中国传媒科技, 2022, No.357(12): 11-16. 
 
-【5】基于区块链的全媒体数字图像版权保护方法研究 
+[5]Shujun Wu, Sanxing Cao, Ze Xu. Research and Implementation of Electronic Medical Record System Based on Blockchain[C]. 2021 IEEE 3rd International Conference on Frontiers Technology of Information and Computer (ICFTIC), Greenville, SC, USA, 2021, pp. 754-760.
 
-【6】基于区块链和深度学习的全媒体虚假信息检测方法研究
+[6]Ze Xu, Yun Pan, Zewei Tao. A Threshold Signature Key Protection Scheme Based on Blind Technology，2017 6th International Conference on Information Technology(ICIT 2017）, 2017.11:157-161. 
